@@ -1,6 +1,6 @@
 <h1>[andrew@github ~]$ ls ❙</h1>
 
-Hi! 💞 my name is Andrew and i'm a student full-stack Web Developer 🌐 & Software Engineer 🖥️ <br>
+Hello! 💞 my name is Andrew, thanks for visiting my profile, here I post my personal projects for showcase reasons 💻<br>
 <b>I'm familiar with the following technologies: </b><br><br>
 ![My Skills](https://skillicons.dev/icons?i=python)
 ![My Skills](https://skillicons.dev/icons?i=javascript)
