@@ -1,6 +1,6 @@
 <h1>[andrew@github ~]$ ls ❙</h1>
 
-Hello! 💞 my name is Andrew, thanks for visiting my profile, here I post my personal projects for showcase reasons 💻<br>
+Obsessed with technology and internet privacy paranoid 💻<br>
 <b>I'm familiar with the following technologies: </b><br><br>
 ![My Skills](https://skillicons.dev/icons?i=python)
 ![My Skills](https://skillicons.dev/icons?i=javascript)
