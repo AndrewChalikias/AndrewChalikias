@@ -13,6 +13,6 @@ Obsessed with technology and internet privacy paranoid 💻<br>
 ![My Skills](https://skillicons.dev/icons?i=java)
 
 <h1>How to reach me 📫</h1>
- - ❤️ <a href="https://andrewchalikias.dev">My portfolio</a> <br>
+ - ❤️ <a href="https://andrewis.dev">My portfolio</a> <br>
  - 🔗 <a href="https://www.linkedin.com/in/andrewchalikias">Let's connect</a> <br>
  - 🌐 <a href="https://codepen.io/AndrewChalikias">Front-End projects for fun</a> <br>
